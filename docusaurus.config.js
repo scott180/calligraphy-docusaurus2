@@ -1,6 +1,6 @@
 module.exports = {
   title: 'calligraphy',
-  tagline: 'The tagline of my site',
+  tagline: '书法练习轨迹',
   url: 'https://github.com/scott180/calligraphy',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -10,7 +10,7 @@ module.exports = {
     navbar: {
       title: 'calligraphy',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'calligraphy',
         src: 'img/logo.svg',
       },
       links: [
@@ -35,29 +35,25 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: '书法练习轨迹ReadMe',
               to: 'docs/doc1',
             },
             {
-              label: 'Second Doc',
+              label: '书法练习轨迹--明月几时有',
               to: 'docs/doc2',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Git',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Gitlab',
+              href: 'https://gitlab.com/xuyq123/calligraphy',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Github',
+              href: 'https://github.com/scott180/calligraphy',
             },
           ],
         },
@@ -69,8 +65,8 @@ module.exports = {
               to: 'blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Weixin',
+              href: 'https://mp.weixin.qq.com/s?__biz=Mzg4NDY2OTM0Mg==&mid=2247487244&idx=1&sn=fa21068e783c6b31a62abf71186c1b20',
             },
           ],
         },
@@ -86,13 +82,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/scott180/calligraphy',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/scott180/calligraphy',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
