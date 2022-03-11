@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'My Site',
+  title: 'calligraphy',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://github.com/scott180/calligraphy',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'calligraphy',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -75,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} 无为徐生 书法练习轨迹.`,
     },
   },
   presets: [

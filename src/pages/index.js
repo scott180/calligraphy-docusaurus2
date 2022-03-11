@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>无为徐生</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        无为徐生，希冀无为有为，徐生长生。人生在世，有所作为，文化长生，思想永恒。
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>书法练习轨迹ReadMe</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        人情必有所寄，习惯而成自然。练着练着，书法就成了生活的一部分，记录书法练习轨迹更是有趣有意思的点缀。
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>书法练习轨迹--明月几时有</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        何以学书法，一字记之曰：练。天天练，月月练，年年练。时时琢磨。
       </>
     ),
   },
