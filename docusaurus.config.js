@@ -80,15 +80,9 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/scott180/calligraphy',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/scott180/calligraphy',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
