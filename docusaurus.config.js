@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'calligraphy',
+  title: '无为徐生',
   tagline: '书法练习轨迹',
   url: 'https://github.com/scott180/calligraphy',
   baseUrl: '/',
@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://scott180.github.io/calligraphy',
           label: 'GitHub',
           position: 'right',
         },
