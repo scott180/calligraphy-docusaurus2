@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://scott180.github.io/calligraphy',
+          href: 'https://github.com/scott180/calligraphy',
           label: 'GitHub',
           position: 'right',
         },
