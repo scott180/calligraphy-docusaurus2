@@ -3,7 +3,6 @@ id: doc1
 title: 书法练习轨迹ReadMe
 ---
 
-# 书法练习轨迹ReadMe
 
 ## 一、自序
 
